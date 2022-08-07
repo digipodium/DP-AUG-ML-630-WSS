@@ -1,0 +1,17 @@
+numpy
+matplotlib
+pandas
+seaborn
+plotly
+scikit-learn
+imblearn
+nltk
+textblob
+streamlit
+pillow
+tensorflow
+opencv-contrib-python
+statsmodels
+scipy
+ipykernel
+jupyter
